@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarkarniloy102&label=Profile%20views&color=0e75b6&style=flat" alt="sarkarniloy102" /> </p>
 
-- 🌱 I’m currently learning **MongoDB React**
+- 🌱 I’m currently learning **MUI**
 
 - 👨‍💻 All of my projects are available at [https://sarkarniloy.netlify.app/](https://sarkarniloy.netlify.app/)
 
